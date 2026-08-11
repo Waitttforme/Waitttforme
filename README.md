@@ -4,20 +4,11 @@
 <br />
 <br />
 <br />
-
-<h1>🏀 练习时长两年半 🏀</h1>
-
 <br />
 
-<img width="280" src="basketball.jpg" alt="篮球" />
+<h1><font color="#FF69B4">练习时长两年半</font></h1>
 
 <br />
-<br />
-
-<p>
-  <sub>⛹️ &nbsp; · &nbsp; 🎵 &nbsp; · &nbsp; 💻</sub>
-</p>
-
 <br />
 <br />
 <br />
